@@ -1,0 +1,38 @@
+h1{
+    font-size: 50px; 
+    color: white;
+    background-color: purple;
+    border: dashed 2px white;
+    text-align: center;
+    font-family: 'Modak', regular;
+}
+
+h2{
+    font-size: 50px;
+    text-align: center;
+color: greenyellow;
+border: solid 5px white;
+width: 490px;
+font-family: 'Teko', sans-serif;
+}
+
+p{
+    color: red;
+    font-size: 24px;
+    line-height: 100px;
+}
+
+li{
+    color: white;
+    background-color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img src{
+    padding: 20px;
+    align-content: center;
+}
+
+html{
+    background: orange;
+}
